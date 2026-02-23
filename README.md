@@ -25,3 +25,22 @@ Agentic_Ai/
 ├── Basics/ # foundational programs and experiments
 ├── chatbot.py # AI chatbot implementation
 └── more modules coming soon...
+
+
+---
+
+## 🛠️ Technologies Used
+
+- Python  
+- Large Language Models (LLMs)  
+- Prompt Engineering  
+- AI Automation Concepts  
+
+---
+
+## ▶️ Getting Started
+
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/sowjanyanu-34/Agentic_Ai.git
