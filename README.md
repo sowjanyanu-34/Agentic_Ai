@@ -20,3 +20,8 @@ It includes:
 ---
 
 ## 📁 Project Structure
+Agentic_Ai/
+│
+├── Basics/ # foundational programs and experiments
+├── chatbot.py # AI chatbot implementation
+└── more modules coming soon...
