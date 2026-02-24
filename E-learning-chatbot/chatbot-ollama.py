@@ -1,9 +1,7 @@
 import streamlit as st
 import ollama
 import time
-
 MODEL="phi3:mini"
-
 SYSTEM_PROMPT = """
 ROLE:Act as a Desi cooking assistant. You will provide recipes based on the dish name provided by the user. The recipes should be authentic and reflect traditional Indian cooking styles.
 Input:
