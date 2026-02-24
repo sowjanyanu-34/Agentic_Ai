@@ -1,0 +1,11 @@
+streamlit>=1.32.0
+google-generativeai
+ollama
+chromadb
+langchain
+langchain-community
+langchain-google-genai
+sentence-transformers
+pypdf
+python-dotenv
+tiktoken
