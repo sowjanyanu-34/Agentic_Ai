@@ -5,7 +5,6 @@ from google.genai import types
 
 st.set_page_config(page_title="Agentic Food Chatbot", layout="centered")
 st.title("🍽️ Agentic Food Bot - Bheemasena")
-
 api_key = "AIzaSyBgewJ1zmPy7lJnqqi7OxnCAxPRrJHNtAw"
 MODEL = "gemini-flash-latest"
 
