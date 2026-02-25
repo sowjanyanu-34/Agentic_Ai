@@ -10,6 +10,7 @@ from pypdf import PdfReader
 import json
 import re
 
+
 # =========================
 # CONFIG
 # =========================
