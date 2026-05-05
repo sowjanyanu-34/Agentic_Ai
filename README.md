@@ -11,7 +11,7 @@ This repository explores the concept of **Agentic AI** — systems that can reas
 
 It includes:
 
-* 🧠 AI chatbot implementations
+*  AI chatbot implementations
 * ⚙️ automation scripts
 * 🤖 agent-based workflows
 * 🧪 experiments with LLM-powered tools
