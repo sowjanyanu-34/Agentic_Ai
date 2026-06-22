@@ -1,4 +1,4 @@
-# 🤖 Agentic AI Projects
+#  Agentic AI Projects
 
 Welcome to my **Agentic AI** repository!
 This project contains experiments and implementations related to **AI agents, automation, and intelligent workflows**.
