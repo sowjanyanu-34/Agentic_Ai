@@ -5,21 +5,21 @@ This project contains experiments and implementations related to **AI agents, au
 
 ---
 
-## 🚀 About the Project
+## About the Project
 
 This repository explores the concept of **Agentic AI** — systems that can reason, make decisions, and perform tasks autonomously.
 
 It includes:
 
 *  AI chatbot implementations
-* ⚙️ automation scripts
-* 🤖 agent-based workflows
-* 🧪 experiments with LLM-powered tools
-* 🐍 Python-based AI projects
+*  automation scripts
+*  agent-based workflows
+*  experiments with LLM-powered tools
+*  Python-based AI projects
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 Agentic_Ai/
@@ -32,30 +32,30 @@ Agentic_Ai/
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
-* Python 🐍
+* Python 
 * Large Language Models (LLMs)
 * Prompt Engineering
 * AI Automation Concepts
 
 ---
 
-## ▶️ Getting Started
+##  Getting Started
 
-### 1️⃣ Clone the repository
+###  Clone the repository
 
 ```bash
 git clone https://github.com/sowjanyanu-34/Agentic_Ai.git
 ```
 
-### 2️⃣ Navigate to the folder
+###  Navigate to the folder
 
 ```bash
 cd Agentic_Ai
 ```
 
-### 3️⃣ Run a program
+### Run a program
 
 Example:
 
@@ -65,7 +65,7 @@ python chatbot.py
 
 ---
 
-## 🎯 Learning Goals
+##  Learning Goals
 
 This repository is part of my journey to learn:
 
@@ -77,7 +77,7 @@ This repository is part of my journey to learn:
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Add intelligent multi-agent workflows
 * Integrate APIs & tools
@@ -86,7 +86,7 @@ This repository is part of my journey to learn:
 
 ---
 
-## 🙋‍♀️ Author
+##  Author
 
 **Sowjanya N U**
 Computer Science Engineering Student
@@ -96,4 +96,4 @@ Passionate about AI & Software Development
 
 ---
 
-⭐ If you like this project, consider giving it a star!
+ If you like this project, consider giving it a star!
